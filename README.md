@@ -10,4 +10,4 @@ Simple we can define Natural language processing (NLP) is the ability of a compu
 
 | Project | Link |
 |---------|---------------|
-| Movie Recommendation System | [SQL Window function](https://github.com/vidush5/100-Days-of-SQL/tree/main/Day_02)|
+| Movie Recommendation System | [Link](https://github.com/vidush5/Natural-Language-Processing/blob/master/Projects/Movie%20Recommendation%20System%20Model%20Building.ipynb)|
